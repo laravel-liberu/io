@@ -6,9 +6,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/io/downloads)](https://packagist.org/packages/laravel-enso/io)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/io/version)](https://packagist.org/packages/laravel-enso/io)
 
-IO process monitoring dependency for [Laravel-Enso](https://laravel-enso.com).
+IO process monitoring dependency for [Laravel-Liberu](https://laravel-enso.com).
 
-This package works exclusively within the [Enso](https://github.com/laravel-enso/Enso) ecosystem.
+This package works exclusively within the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
 The front end assets that utilize this api are present in the [ui](https://github.com/enso-ui/ui) package.
 
