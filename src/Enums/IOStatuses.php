@@ -6,7 +6,7 @@ use LaravelEnso\Enums\Services\Enum;
 
 class IOStatuses extends Enum
 {
-    public const Started = 10;
-    public const Processing = 20;
-    public const Finalized = 30;
+    final public const Started = 10;
+    final public const Processing = 20;
+    final public const Finalized = 30;
 }
