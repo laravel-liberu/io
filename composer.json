@@ -23,15 +23,15 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\IO\\": "src/"
+            "LaravelLiberu\\IO\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\IO\\BroadcastServiceProvider",
-                "LaravelEnso\\IO\\WebsocketServiceProvider",
-                "LaravelEnso\\IO\\EnumServiceProvider"
+                "LaravelLiberu\\IO\\BroadcastServiceProvider",
+                "LaravelLiberu\\IO\\WebsocketServiceProvider",
+                "LaravelLiberu\\IO\\EnumServiceProvider"
             ],
             "aliases": {}
         }

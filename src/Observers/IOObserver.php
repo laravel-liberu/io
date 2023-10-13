@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\IO\Observers;
+namespace LaravelLiberu\IO\Observers;
 
-use LaravelEnso\IO\Contracts\IOOperation;
-use LaravelEnso\IO\Events\IOEvent;
+use LaravelLiberu\IO\Contracts\IOOperation;
+use LaravelLiberu\IO\Events\IOEvent;
 
 class IOObserver
 {

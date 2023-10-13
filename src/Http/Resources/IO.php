@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelEnso\IO\Http\Resources;
+namespace LaravelLiberu\IO\Http\Resources;
 
 use Carbon\Carbon;
 use Illuminate\Http\Resources\Json\JsonResource;
-use LaravelEnso\Helpers\Services\Decimals;
-use LaravelEnso\Users\Http\Resources\User;
+use LaravelLiberu\Helpers\Services\Decimals;
+use LaravelLiberu\Users\Http\Resources\User;
 
 class IO extends JsonResource
 {

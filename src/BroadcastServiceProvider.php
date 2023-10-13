@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\IO;
+namespace LaravelLiberu\IO;
 
 use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\ServiceProvider;

@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\IO\Contracts;
+namespace LaravelLiberu\IO\Contracts;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Relations\Relation;

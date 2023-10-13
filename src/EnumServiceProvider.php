@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\IO;
+namespace LaravelLiberu\IO;
 
-use LaravelEnso\Enums\EnumServiceProvider as ServiceProvider;
-use LaravelEnso\IO\Enums\IOStatuses;
-use LaravelEnso\IO\Enums\IOTypes;
+use LaravelLiberu\Enums\EnumServiceProvider as ServiceProvider;
+use LaravelLiberu\IO\Enums\IOStatuses;
+use LaravelLiberu\IO\Enums\IOTypes;
 
 class EnumServiceProvider extends ServiceProvider
 {

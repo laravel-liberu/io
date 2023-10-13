@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\IO\Enums;
+namespace LaravelLiberu\IO\Enums;
 
-use LaravelEnso\Enums\Services\Enum;
+use LaravelLiberu\Enums\Services\Enum;
 
 class IOStatuses extends Enum
 {
